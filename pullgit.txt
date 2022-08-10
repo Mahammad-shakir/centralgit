@@ -1,0 +1,2 @@
+to pull central repo
+use git pull command 
